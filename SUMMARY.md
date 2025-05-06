@@ -7,11 +7,11 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Resources
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor](resources/editor.md)
+* [Markdown](resources/markdown.md)
+* [Images & media](resources/images-and-media.md)
+* [Interactive blocks](resources/interactive-blocks.md)
+* [OpenAPI](resources/openapi.md)
+* [Integrations](resources/integrations.md)
